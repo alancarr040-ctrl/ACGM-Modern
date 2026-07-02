@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\acgm\\packages\\ACGM Modern Client 0.11.16 - Legacy Search System Restoration Milestone 2\\ACGM.ModernClient\\ACGM.ModernClient.csproj": {}
+    "D:\\Projects\\acgm\\packages\\ACGM Modern Client 0.11.19 - Legacy Protocol Inventory and Documentation\\ACGM.ModernClient\\ACGM.ModernClient.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\acgm\\packages\\ACGM Modern Client 0.11.16 - Legacy Search System Restoration Milestone 2\\ACGM.ModernClient\\ACGM.ModernClient.csproj": {
+    "D:\\Projects\\acgm\\packages\\ACGM Modern Client 0.11.19 - Legacy Protocol Inventory and Documentation\\ACGM.ModernClient\\ACGM.ModernClient.csproj": {
       "version": "0.11.13",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\acgm\\packages\\ACGM Modern Client 0.11.16 - Legacy Search System Restoration Milestone 2\\ACGM.ModernClient\\ACGM.ModernClient.csproj",
+        "projectUniqueName": "D:\\Projects\\acgm\\packages\\ACGM Modern Client 0.11.19 - Legacy Protocol Inventory and Documentation\\ACGM.ModernClient\\ACGM.ModernClient.csproj",
         "projectName": "ACGM.ModernClient",
-        "projectPath": "D:\\Projects\\acgm\\packages\\ACGM Modern Client 0.11.16 - Legacy Search System Restoration Milestone 2\\ACGM.ModernClient\\ACGM.ModernClient.csproj",
+        "projectPath": "D:\\Projects\\acgm\\packages\\ACGM Modern Client 0.11.19 - Legacy Protocol Inventory and Documentation\\ACGM.ModernClient\\ACGM.ModernClient.csproj",
         "packagesPath": "C:\\Users\\willi\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\acgm\\packages\\ACGM Modern Client 0.11.16 - Legacy Search System Restoration Milestone 2\\ACGM.ModernClient\\obj\\",
+        "outputPath": "D:\\Projects\\acgm\\packages\\ACGM Modern Client 0.11.19 - Legacy Protocol Inventory and Documentation\\ACGM.ModernClient\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

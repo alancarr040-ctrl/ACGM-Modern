@@ -55,3 +55,22 @@ D:\Projects\acgm\packages\ACGM Modern Client 0.11.16 - Legacy Search System Rest
 D:\Projects\acgm\packages\ACGM Modern Client 0.11.16 - Legacy Search System Restoration Milestone 2\ACGM.ModernClient\obj\Debug\net8.0-windows\ACGM.ModernClient.pdb
 D:\Projects\acgm\packages\ACGM Modern Client 0.11.16 - Legacy Search System Restoration Milestone 2\ACGM.ModernClient\obj\Debug\net8.0-windows\ACGM.ModernClient.genruntimeconfig.cache
 D:\Projects\acgm\packages\ACGM Modern Client 0.11.16 - Legacy Search System Restoration Milestone 2\ACGM.ModernClient\obj\Debug\net8.0-windows\ref\ACGM.ModernClient.dll
+D:\Projects\acgm\packages\ACGM Modern Client 0.11.19 - Legacy Protocol Inventory and Documentation\ACGM.ModernClient\bin\Debug\net8.0-windows\Assets\muleico.jpg
+D:\Projects\acgm\packages\ACGM Modern Client 0.11.19 - Legacy Protocol Inventory and Documentation\ACGM.ModernClient\bin\Debug\net8.0-windows\Assets\pkico.jpg
+D:\Projects\acgm\packages\ACGM Modern Client 0.11.19 - Legacy Protocol Inventory and Documentation\ACGM.ModernClient\bin\Debug\net8.0-windows\Assets\rescueico.jpg
+D:\Projects\acgm\packages\ACGM Modern Client 0.11.19 - Legacy Protocol Inventory and Documentation\ACGM.ModernClient\bin\Debug\net8.0-windows\Assets\guy.bmp
+D:\Projects\acgm\packages\ACGM Modern Client 0.11.19 - Legacy Protocol Inventory and Documentation\ACGM.ModernClient\bin\Debug\net8.0-windows\Assets\M.bmp
+D:\Projects\acgm\packages\ACGM Modern Client 0.11.19 - Legacy Protocol Inventory and Documentation\ACGM.ModernClient\bin\Debug\net8.0-windows\ACGM.ModernClient.exe
+D:\Projects\acgm\packages\ACGM Modern Client 0.11.19 - Legacy Protocol Inventory and Documentation\ACGM.ModernClient\bin\Debug\net8.0-windows\ACGM.ModernClient.deps.json
+D:\Projects\acgm\packages\ACGM Modern Client 0.11.19 - Legacy Protocol Inventory and Documentation\ACGM.ModernClient\bin\Debug\net8.0-windows\ACGM.ModernClient.runtimeconfig.json
+D:\Projects\acgm\packages\ACGM Modern Client 0.11.19 - Legacy Protocol Inventory and Documentation\ACGM.ModernClient\bin\Debug\net8.0-windows\ACGM.ModernClient.dll
+D:\Projects\acgm\packages\ACGM Modern Client 0.11.19 - Legacy Protocol Inventory and Documentation\ACGM.ModernClient\bin\Debug\net8.0-windows\ACGM.ModernClient.pdb
+D:\Projects\acgm\packages\ACGM Modern Client 0.11.19 - Legacy Protocol Inventory and Documentation\ACGM.ModernClient\obj\Debug\net8.0-windows\ACGM.ModernClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\acgm\packages\ACGM Modern Client 0.11.19 - Legacy Protocol Inventory and Documentation\ACGM.ModernClient\obj\Debug\net8.0-windows\ACGM.ModernClient.AssemblyInfoInputs.cache
+D:\Projects\acgm\packages\ACGM Modern Client 0.11.19 - Legacy Protocol Inventory and Documentation\ACGM.ModernClient\obj\Debug\net8.0-windows\ACGM.ModernClient.AssemblyInfo.cs
+D:\Projects\acgm\packages\ACGM Modern Client 0.11.19 - Legacy Protocol Inventory and Documentation\ACGM.ModernClient\obj\Debug\net8.0-windows\ACGM.ModernClient.csproj.CoreCompileInputs.cache
+D:\Projects\acgm\packages\ACGM Modern Client 0.11.19 - Legacy Protocol Inventory and Documentation\ACGM.ModernClient\obj\Debug\net8.0-windows\ACGM.ModernClient.dll
+D:\Projects\acgm\packages\ACGM Modern Client 0.11.19 - Legacy Protocol Inventory and Documentation\ACGM.ModernClient\obj\Debug\net8.0-windows\refint\ACGM.ModernClient.dll
+D:\Projects\acgm\packages\ACGM Modern Client 0.11.19 - Legacy Protocol Inventory and Documentation\ACGM.ModernClient\obj\Debug\net8.0-windows\ACGM.ModernClient.pdb
+D:\Projects\acgm\packages\ACGM Modern Client 0.11.19 - Legacy Protocol Inventory and Documentation\ACGM.ModernClient\obj\Debug\net8.0-windows\ACGM.ModernClient.genruntimeconfig.cache
+D:\Projects\acgm\packages\ACGM Modern Client 0.11.19 - Legacy Protocol Inventory and Documentation\ACGM.ModernClient\obj\Debug\net8.0-windows\ref\ACGM.ModernClient.dll

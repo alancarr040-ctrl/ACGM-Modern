@@ -28,7 +28,7 @@ public sealed class AcgmSettings
 
         if (!File.Exists(path))
         {
-            settings.AddServer("www.theregs.org/cgi-bin/acgm/server.cgi");
+            settings.AddServer("www.yourserver.com/cgi-bin/acgm/server.cgi");
             return settings;
         }
 
@@ -128,7 +128,7 @@ public sealed class AcgmSettings
         }
 
         if (settings.Servers.Count == 0)
-            settings.AddServer("www.theregs.org/cgi-bin/acgm/server.cgi");
+            settings.AddServer("www.yourserver.com/cgi-bin/acgm/server.cgi");
 
         return settings;
     }

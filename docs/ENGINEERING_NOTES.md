@@ -1,3 +1,7 @@
+## 0.11.19 - Legacy Protocol Inventory & Documentation
+
+See `engineering-notes-0.11.19.md` for the documentation-focused protocol inventory, certification report, developer guide, and source audit.
+
 ## 0.11.13 - Legacy Character Save Certification Suite
 
 See `engineering-notes-0.11.13.md` for the opt-in developer certification suite for `MSG_UPDATE_CHAR_INFO`.
